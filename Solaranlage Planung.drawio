@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T20:59:23.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="eWBpCYPgOSYzruTUf-12" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T21:00:36.475Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="eOKNEGoEhzaCNCFdyRB3" version="20.8.10" type="github">
   <diagram name="Seite-1" id="s92jI6vrrn_Ta6vDfJjQ">
     <mxGraphModel dx="1514" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cEShp04CJNDnoxc7UoD6-35" value="Einspeisung" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;strokeWidth=3;fontColor=#1F1F1F;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="cEShp04CJNDnoxc7UoD6-35" value="Max. 600W&lt;br&gt;Einspeisung" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;strokeWidth=3;fontColor=#1F1F1F;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="645" y="531" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uwn_auE4xD1VnVQYwtf-13" style="edgeStyle=none;rounded=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=3;fontSize=20;fontColor=#1F1F1F;endArrow=none;endFill=0;fillColor=#e51400;" edge="1" parent="1" source="4uwn_auE4xD1VnVQYwtf-1" target="4uwn_auE4xD1VnVQYwtf-5">
